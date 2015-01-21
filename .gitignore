@@ -1,6 +1,7 @@
 *.class
 
-*.java~
+# Linux temp text edit files
+*~
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
